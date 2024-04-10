@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xDazzyDuncan
 - 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning cybersecurity.
 - 📫 How to reach me probably by email darrenaduncan@gmail.com 
 
 <!---
